@@ -1,0 +1,14 @@
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\bin\Debug\netcoreapp3.1\tong_hop_11_bai.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\bin\Debug\netcoreapp3.1\tong_hop_11_bai.deps.json
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\bin\Debug\netcoreapp3.1\tong_hop_11_bai.runtimeconfig.json
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\bin\Debug\netcoreapp3.1\tong_hop_11_bai.runtimeconfig.dev.json
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\bin\Debug\netcoreapp3.1\tong_hop_11_bai.dll
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\bin\Debug\netcoreapp3.1\tong_hop_11_bai.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\obj\Debug\netcoreapp3.1\tong_hop_11_bai.csproj.AssemblyReference.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\obj\Debug\netcoreapp3.1\tong_hop_11_bai.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\obj\Debug\netcoreapp3.1\tong_hop_11_bai.AssemblyInfoInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\obj\Debug\netcoreapp3.1\tong_hop_11_bai.AssemblyInfo.cs
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\obj\Debug\netcoreapp3.1\tong_hop_11_bai.csproj.CoreCompileInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\obj\Debug\netcoreapp3.1\tong_hop_11_bai.dll
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\obj\Debug\netcoreapp3.1\tong_hop_11_bai.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_Co_ban_2\tong_hop_11_bai\tong_hop_11_bai\obj\Debug\netcoreapp3.1\tong_hop_11_bai.genruntimeconfig.cache

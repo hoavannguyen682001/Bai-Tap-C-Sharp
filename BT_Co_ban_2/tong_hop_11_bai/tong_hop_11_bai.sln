@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32126.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tong_hop_11_bai", "tong_hop_11_bai\tong_hop_11_bai.csproj", "{20CB778C-7D4E-4061-A3B1-949AA29F1994}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20CB778C-7D4E-4061-A3B1-949AA29F1994}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20CB778C-7D4E-4061-A3B1-949AA29F1994}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20CB778C-7D4E-4061-A3B1-949AA29F1994}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20CB778C-7D4E-4061-A3B1-949AA29F1994}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {939978AE-4C99-438A-B153-E7FCA50F0B94}
+	EndGlobalSection
+EndGlobal
