@@ -1,0 +1,14 @@
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csproj.AssemblyReference.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.GeneratedMSBuildEditorConfig.editorconfig
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfoInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.AssemblyInfo.cs
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.csproj.CoreCompileInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.deps.json
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.json
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.runtimeconfig.dev.json
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.dll
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\bin\Debug\netcoreapp3.1\BaiTap.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.dll
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTap\BaiTap\obj\Debug\netcoreapp3.1\BaiTap.genruntimeconfig.cache
