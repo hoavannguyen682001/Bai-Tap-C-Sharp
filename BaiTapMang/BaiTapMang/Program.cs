@@ -177,7 +177,7 @@ namespace BaiTapMang
             int chonBT;
             int n;
             Console.WriteLine("\t\t=================== Chon Bai Tap ====================");
-            Console.WriteLine("Bai 58: ");
+            Console.WriteLine("Bai 58: Viết chương trình thực hiện thuật toán sàng Erastosthenes10 (Sieve of Erastosthenes) để in ra các số nguyên tố nhỏ hơn số n cho trước(n < 100)");
             Console.WriteLine("\t\t=====================================================");
             Console.WriteLine("Bai 59: Nhập vào năm Dương lịch, xuất tên năm Âm lịch. Xuất năm Dương lịch kế tiếp có cùng tên năm Âm lịch");
             Console.WriteLine("\t\t=====================================================");
