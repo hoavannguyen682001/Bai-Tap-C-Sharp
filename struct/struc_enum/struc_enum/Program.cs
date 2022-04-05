@@ -10,61 +10,61 @@ namespace struc_enum
     {
         public struct SinhVien
         {
-            public int maSV;
-            public string hoTen;
-            public int tuoi;
-            public double diemToan;
-            public double diemLy;
-            public double diemHoa;
-            public int gioiTinh;
+            public int maSV_217;
+            public string hoTen_217;
+            public int tuoi_217;
+            public double diemToan_217;
+            public double diemLy_217;
+            public double diemHoa_217;
+            public int gioiTinh_217;
 
         }
         enum gioiTinh
         {
-            nam,
-            nu
+            nam_217,
+            nu_217
         }
 
         static void NhapThongTinSinhVien(out SinhVien SV)
         {
             Console.WriteLine("");
             Console.Write(" Ma so: ");
-            SV.maSV = int.Parse(Console.ReadLine());
+            SV.maSV_217 = int.Parse(Console.ReadLine());
             Console.Write(" Ho ten: ");
-            SV.hoTen = Console.ReadLine();
+            SV.hoTen_217 = Console.ReadLine();
             Console.Write(" Gioi tinh (0 - nam, 1 - nu): ");
-            SV.gioiTinh = int.Parse(Console.ReadLine());
+            SV.gioiTinh_217 = int.Parse(Console.ReadLine());
             Console.Write(" Tuoi: ");
-            SV.tuoi = int.Parse(Console.ReadLine());
+            SV.tuoi_217 = int.Parse(Console.ReadLine());
             Console.Write(" Diem toan: ");
-            SV.diemToan = Double.Parse(Console.ReadLine());
+            SV.diemToan_217 = Double.Parse(Console.ReadLine());
             Console.Write(" Diem ly: ");
-            SV.diemLy = Double.Parse(Console.ReadLine());
+            SV.diemLy_217 = Double.Parse(Console.ReadLine());
             Console.Write(" Diem van: ");
-            SV.diemHoa = Double.Parse(Console.ReadLine());
+            SV.diemHoa_217 = Double.Parse(Console.ReadLine());
             
         }
         static double DiemTB(SinhVien SV)
         {
-            return (SV.diemHoa + SV.diemLy + SV.diemHoa) / 3;
+            return (SV.diemHoa_217 + SV.diemLy_217 + SV.diemHoa_217) / 3;
         }
 
         static void XuatThongTinSinhVien(SinhVien SV)
         {
             Console.WriteLine("=========");
-            Console.WriteLine(" Ma so: " + SV.maSV);
-            Console.WriteLine(" Ho ten: " + SV.hoTen);
-            if (SV.gioiTinh == 0)
+            Console.WriteLine(" Ma so: " + SV.maSV_217);
+            Console.WriteLine(" Ho ten: " + SV.hoTen_217);
+            if (SV.gioiTinh_217 == 0)
             {
                 Console.WriteLine(" Gioi tinh: Nam ");
             }
-            else
+            if (SV.gioiTinh_217 == 1)
             {
                 Console.WriteLine(" Gioi tinh: Nu");
             }
-            Console.WriteLine(" Diem toan: " + SV.diemToan);
-            Console.WriteLine(" Diem ly: " + SV.diemLy);
-            Console.WriteLine(" Diem van: " + SV.diemHoa);
+            Console.WriteLine(" Diem toan: " + SV.diemToan_217);
+            Console.WriteLine(" Diem ly: " + SV.diemLy_217);
+            Console.WriteLine(" Diem van: " + SV.diemHoa_217);
             Console.WriteLine(" Diem trung binh: " + DiemTB(SV));
             
 
@@ -72,18 +72,18 @@ namespace struc_enum
         static void Main(string[] args)
         { 
             
-            int n;
-            string ten="";
+            int n_217;
+            string ten_217 = "";
             Console.WriteLine("Nhap so luong sinh vien: ");
 
-            n = int.Parse(Console.ReadLine());
+            n_217 = int.Parse(Console.ReadLine());
 
-            SinhVien[] SV = new SinhVien[n];
+            SinhVien[] SV = new SinhVien[n_217];
 
-            for (int i = 0; i < n; i++)
+            for (int i_217 = 0; i_217 < n_217; i_217++)
             {
-                Console.Write("Nhap thong tin sinh vien thu {0}", i + 1);
-                NhapThongTinSinhVien(out SV[i]);
+                Console.Write("Nhap thong tin sinh vien thu {0}", i_217 + 1);
+                NhapThongTinSinhVien(out SV[i_217]);
             }
 
             foreach(SinhVien sinhVien in SV)
@@ -93,13 +93,13 @@ namespace struc_enum
             }
 
             Console.Write("Nhap ten sinh vien can tim: ");
-            ten = Console.ReadLine();
+            ten_217 = Console.ReadLine();
 
-            for (int i = 0; i < n; i++)
+            for (int i_217 = 0; i_217 < n_217; i_217++)
             {
-                if (SV[i].hoTen.Equals(ten))
+                if (SV[i_217].hoTen_217.Equals(ten_217))
                 {
-                    Console.WriteLine("Diem trung binh: "+ DiemTB(SV[i]));
+                    Console.WriteLine("Diem trung binh: "+ DiemTB(SV[i_217]));
                 }
             }
 
