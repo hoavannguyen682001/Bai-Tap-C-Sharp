@@ -31,7 +31,7 @@ namespace struc_enum
             Console.Write(" Ma so: ");
             SV.maSV = int.Parse(Console.ReadLine());
             Console.Write(" Ho ten: ");
-            SV.hoTen = Console.ReadLine()
+            SV.hoTen = Console.ReadLine();
             Console.Write(" Gioi tinh (0 - nam, 1 - nu): ");
             SV.gioiTinh = int.Parse(Console.ReadLine());
             Console.Write(" Tuoi: ");
