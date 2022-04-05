@@ -5,3 +5,10 @@ D:\documents\HK2_Nam_3\C#\struct\struc_enum\struc_enum\obj\Debug\struc_enum.cspr
 D:\documents\HK2_Nam_3\C#\struct\struc_enum\struc_enum\obj\Debug\struc_enum.csproj.CoreCompileInputs.cache
 D:\documents\HK2_Nam_3\C#\struct\struc_enum\struc_enum\obj\Debug\struc_enum.exe
 D:\documents\HK2_Nam_3\C#\struct\struc_enum\struc_enum\obj\Debug\struc_enum.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\struct\struc_enum\struc_enum\bin\Debug\struc_enum.exe.config
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\struct\struc_enum\struc_enum\bin\Debug\struc_enum.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\struct\struc_enum\struc_enum\bin\Debug\struc_enum.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\struct\struc_enum\struc_enum\obj\Debug\struc_enum.csproj.AssemblyReference.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\struct\struc_enum\struc_enum\obj\Debug\struc_enum.csproj.CoreCompileInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\struct\struc_enum\struc_enum\obj\Debug\struc_enum.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\struct\struc_enum\struc_enum\obj\Debug\struc_enum.pdb

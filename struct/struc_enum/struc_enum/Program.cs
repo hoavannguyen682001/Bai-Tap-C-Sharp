@@ -16,7 +16,8 @@ namespace struc_enum
             public double diemToan;
             public double diemLy;
             public double diemHoa;
-           
+            public int gioiTinh;
+
         }
         enum gioiTinh
         {
@@ -30,7 +31,9 @@ namespace struc_enum
             Console.Write(" Ma so: ");
             SV.maSV = int.Parse(Console.ReadLine());
             Console.Write(" Ho ten: ");
-            SV.hoTen = Console.ReadLine();
+            SV.hoTen = Console.ReadLine()
+            Console.Write(" Gioi tinh (0 - nam, 1 - nu): ");
+            SV.gioiTinh = int.Parse(Console.ReadLine());
             Console.Write(" Tuoi: ");
             SV.tuoi = int.Parse(Console.ReadLine());
             Console.Write(" Diem toan: ");
@@ -39,6 +42,7 @@ namespace struc_enum
             SV.diemLy = Double.Parse(Console.ReadLine());
             Console.Write(" Diem van: ");
             SV.diemHoa = Double.Parse(Console.ReadLine());
+            
         }
         static double DiemTB(SinhVien SV)
         {
@@ -50,10 +54,19 @@ namespace struc_enum
             Console.WriteLine("=========");
             Console.WriteLine(" Ma so: " + SV.maSV);
             Console.WriteLine(" Ho ten: " + SV.hoTen);
+            if (SV.gioiTinh == 0)
+            {
+                Console.WriteLine(" Gioi tinh: Nam ");
+            }
+            else
+            {
+                Console.WriteLine(" Gioi tinh: Nu");
+            }
             Console.WriteLine(" Diem toan: " + SV.diemToan);
             Console.WriteLine(" Diem ly: " + SV.diemLy);
             Console.WriteLine(" Diem van: " + SV.diemHoa);
             Console.WriteLine(" Diem trung binh: " + DiemTB(SV));
+            
 
         }
         static void Main(string[] args)
