@@ -40,12 +40,15 @@ namespace BaiTapMang
 
         static void xoaphantu(int[] arr, int n, int p)
         {
-            for (int i = p; i < n - 1; i++)
+            for (int i = 0; i < n; i++)
             {
-                arr[i] = arr[i + 1];
-
+                if (arr[i] == p)
+                {
+                    arr[i] = arr[i + 1];
+                    n--;
+                }
             }
-            n--;
+            
             Console.WriteLine("Mang sau khi xoa phan tu thu {0}: ", p);
             xuatMang(arr, n);
             Console.WriteLine("");
@@ -255,7 +258,7 @@ namespace BaiTapMang
                         Console.WriteLine("===============================================");
                         Console.WriteLine("Nhap n [1, 99]: ");
                         n = Convert.ToInt32(Console.ReadLine());
-                        arr = taoMang(n, -100, 100);
+                        arr = taoMang(n, 10, 20);
                         Console.WriteLine("Mang vua tao ngau nhien: ");
                         xuatMang(arr, n);
 
