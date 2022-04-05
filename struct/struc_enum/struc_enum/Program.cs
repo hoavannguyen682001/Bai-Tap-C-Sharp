@@ -54,11 +54,11 @@ namespace struc_enum
             Console.WriteLine("=========");
             Console.WriteLine(" Ma so: " + SV.maSV_217);
             Console.WriteLine(" Ho ten: " + SV.hoTen_217);
-            if (SV.gioiTinh_217 == 0)
+            if (SV.gioiTinh_217 == (int)gioiTinh.nam_217)
             {
                 Console.WriteLine(" Gioi tinh: Nam ");
             }
-            if (SV.gioiTinh_217 == 1)
+            if (SV.gioiTinh_217 == (int)gioiTinh.nu_217)
             {
                 Console.WriteLine(" Gioi tinh: Nu");
             }
