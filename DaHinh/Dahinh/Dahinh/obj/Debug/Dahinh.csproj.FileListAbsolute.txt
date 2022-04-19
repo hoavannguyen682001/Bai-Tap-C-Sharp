@@ -1,0 +1,7 @@
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\DaHinh\Dahinh\Dahinh\bin\Debug\Dahinh.exe.config
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\DaHinh\Dahinh\Dahinh\bin\Debug\Dahinh.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\DaHinh\Dahinh\Dahinh\bin\Debug\Dahinh.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\DaHinh\Dahinh\Dahinh\obj\Debug\Dahinh.csproj.AssemblyReference.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\DaHinh\Dahinh\Dahinh\obj\Debug\Dahinh.csproj.CoreCompileInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\DaHinh\Dahinh\Dahinh\obj\Debug\Dahinh.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\DaHinh\Dahinh\Dahinh\obj\Debug\Dahinh.pdb
