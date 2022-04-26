@@ -10,14 +10,14 @@ namespace BaiKiemTra
     {
         static void Main(string[] args)
         {
-            double a, b, c;
+            double a_217, b_217, c_217;
             Console.WriteLine("Nhap a,b,c");
-            a = double.Parse(Console.ReadLine());
-            b = double.Parse(Console.ReadLine());
-            c = double.Parse(Console.ReadLine());
+            a_217 = double.Parse(Console.ReadLine());
+            b_217= double.Parse(Console.ReadLine());
+            c_217 = double.Parse(Console.ReadLine());
 
             ptBac2 pt = new ptBac2();
-            pt.nghiemPT(a, b, c);
+            pt.nghiemPT(a_217, b_217, c_217);
 
             Console.ReadKey();
         }
