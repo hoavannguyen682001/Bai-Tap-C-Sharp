@@ -14,6 +14,10 @@ namespace BaiTruTuong
 
     public class Cat : Animal
     {
+        public Cat()
+        {
+
+        }
         public override void Eat()
         {
             Console.WriteLine("Con meo an ca");
@@ -26,6 +30,27 @@ namespace BaiTruTuong
         public void Run()
         {
             Console.WriteLine("Con meo chay bang bon chan");
+        }
+    }
+
+    public class Bird : Animal
+    {
+        public Bird()
+        {
+        }
+
+        public override void Eat()
+        {
+            Console.WriteLine("Con chim an qua");
+        }
+
+        public override void makeSound()
+        {
+            Console.WriteLine("Con chim hot");
+        }
+        public void Fly()
+        {
+            Console.WriteLine("Con chim bay");
         }
     }
 }

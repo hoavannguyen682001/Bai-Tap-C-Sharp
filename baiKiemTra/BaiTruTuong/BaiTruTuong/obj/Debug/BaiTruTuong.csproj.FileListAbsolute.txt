@@ -1,0 +1,7 @@
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiTruTuong\BaiTruTuong\bin\Debug\BaiTruTuong.exe.config
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiTruTuong\BaiTruTuong\bin\Debug\BaiTruTuong.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiTruTuong\BaiTruTuong\bin\Debug\BaiTruTuong.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiTruTuong\BaiTruTuong\obj\Debug\BaiTruTuong.csproj.AssemblyReference.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiTruTuong\BaiTruTuong\obj\Debug\BaiTruTuong.csproj.CoreCompileInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiTruTuong\BaiTruTuong\obj\Debug\BaiTruTuong.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\baiKiemTra\BaiTruTuong\BaiTruTuong\obj\Debug\BaiTruTuong.pdb
