@@ -58,30 +58,38 @@ namespace BTDiemDanh
             int[] arr2_217 = arr_217;
             int[] arr3_217 = arr_217;
             //tang dan
-            for(int i = 0; i < 9; i++)
+            for (int i = 0; i < 9; i++)
             {
-                if(arr2_217[i] > arr2_217[i + 1])
+                for (int j = i + 1; j < 8; j++)
                 {
-                    tmp_217 = arr2_217[i];
-                    arr2_217[i] = arr2_217[i + 1];
-                    arr2_217[i + 1] = tmp_217;
+                    if (arr2_217[i] > arr2_217[j])
+                    {
+                        
+                        tmp_217 = arr2_217[i];
+                        arr2_217[i] = arr2_217[j];
+                        arr2_217[j] = tmp_217;
+                    }
                 }
             }
             Console.WriteLine("Mang sau khi sap xep tang dan:");
             output(arr_217);
             //giam dan
 
-            //for (int i = 0; i < 9; i++)
-            //{
-            //    if (arr3[i] < arr3[i + 1])
-            //    {
-            //        tmp = arr3[i];
-            //        arr3[i] = arr3[i + 1];
-            //        arr3[i + 1] = tmp;
-            //    }
-            //}
-            //Console.WriteLine("Mang sau khi sap xep giam dan:");
-            //output(arr);
+            for (int i = 0; i < 9; i++)
+            {
+                for (int j = i + 1; j < 8; j++)
+                {
+                    if (arr2_217[i] < arr2_217[j])
+                    {
+                        
+                        tmp_217 = arr2_217[i];
+                        arr2_217[i] = arr2_217[j];
+                        arr2_217[j] = tmp_217;
+                    }
+                }
+            }
+            Console.WriteLine("mang sau khi sap xep giam dan:");
+            output(arr_217);
         }
         static void Main(string[] args)
         {
