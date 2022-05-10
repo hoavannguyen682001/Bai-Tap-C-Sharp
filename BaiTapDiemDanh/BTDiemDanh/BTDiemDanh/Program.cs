@@ -8,91 +8,91 @@ namespace BTDiemDanh
 {
     class Program
     {
-        public static void input(out int[] arr)
+        public static void input(out int[] arr_217)
         {
-            arr = new int[10];
+            arr_217 = new int[10];
             Console.WriteLine("Nhap gia tri mang: ");
             for (int i = 0; i < 10; i++) { 
-                arr[i] = Int32.Parse(Console.ReadLine());
+                arr_217[i] = Int32.Parse(Console.ReadLine());
             }
         }
 
-        public static void output(int[] arr)
+        public static void output(int[] arr_217)
         {
             Console.WriteLine("Mang vua nhap: ");
             for (int i = 0; i < 10; i++)
             {
-                Console.Write(arr[i] + " ");
+                Console.Write(arr_217[i] + " ");
             }
             Console.WriteLine("");
         }
 
-        public static void Max_Min(int[] arr)
+        public static void Max_Min(int[] arr_217)
         {
-            int max = arr[0];
+            int max_217 = arr_217[0];
 
             for(int i = 0; i < 10; i++)
             {
-                if (arr[i] > max)
+                if (arr_217[i] > max_217)
                 {
-                    max = arr[i];
+                    max_217 = arr_217[i];
                 }
             }
-            Console.WriteLine("So lon nhat: " + max);
+            Console.WriteLine("So lon nhat: " + max_217);
 
-            int min = arr[0];
+            int min_217 = arr_217[0];
             for(int i = 0; i < 10; i++)
             {
-                if(arr[i] < min)
+                if(arr_217[i] < min_217)
                 {
-                    min = arr[i];
+                    min_217 = arr_217[i];
                 }
             }
-            Console.WriteLine("So nho nhat: " + min);
+            Console.WriteLine("So nho nhat: " + min_217);
 
         }
 
-        public static void sortArr(int[] arr)
+        public static void sortArr(int[] arr_217)
         {
-            int tmp;
-            int[] arr2 = arr;
-            int[] arr2 = arr;
+            int tmp_217;
+            int[] arr2_217 = arr_217;
+            int[] arr3_217 = arr_217;
             //tang dan
             for(int i = 0; i < 9; i++)
             {
-                if(arr[i] > arr[i + 1])
+                if(arr2_217[i] > arr2_217[i + 1])
                 {
-                    tmp = arr[i];
-                    arr[i] = arr[i + 1];
-                    arr[i + 1] = tmp;
+                    tmp_217 = arr2_217[i];
+                    arr2_217[i] = arr2_217[i + 1];
+                    arr2_217[i + 1] = tmp_217;
                 }
             }
             Console.WriteLine("Mang sau khi sap xep tang dan:");
-            output(arr);
+            output(arr_217);
             //giam dan
 
-            for (int i = 0; i < 9; i++)
-            {
-                if (arr[i] < arr[i + 1])
-                {
-                    tmp = arr[i];
-                    arr[i] = arr[i + 1];
-                    arr[i + 1] = tmp;
-                }
-            }
-            Console.WriteLine("Mang sau khi sap xep giam dan:");
-            output(arr);
+            //for (int i = 0; i < 9; i++)
+            //{
+            //    if (arr3[i] < arr3[i + 1])
+            //    {
+            //        tmp = arr3[i];
+            //        arr3[i] = arr3[i + 1];
+            //        arr3[i + 1] = tmp;
+            //    }
+            //}
+            //Console.WriteLine("Mang sau khi sap xep giam dan:");
+            //output(arr);
         }
         static void Main(string[] args)
         {
-            int[] arr;
+            int[] arr_217;
 
-            input(out arr);
-            output(arr);
+            input(out arr_217);
+            output(arr_217);
 
-            Max_Min(arr);
+            Max_Min(arr_217);
 
-            sortArr(arr);
+            sortArr(arr_217);
 
             Console.ReadKey();
         }
