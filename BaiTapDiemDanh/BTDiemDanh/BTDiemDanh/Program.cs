@@ -79,12 +79,12 @@ namespace BTDiemDanh
             {
                 for (int j = i + 1; j < 8; j++)
                 {
-                    if (arr2_217[i] < arr2_217[j])
+                    if (arr3_217[i] < arr3_217[j])
                     {
                         
-                        tmp_217 = arr2_217[i];
-                        arr2_217[i] = arr2_217[j];
-                        arr2_217[j] = tmp_217;
+                        tmp_217 = arr3_217[i];
+                        arr3_217[i] = arr3_217[j];
+                        arr3_217[j] = tmp_217;
                     }
                 }
             }
