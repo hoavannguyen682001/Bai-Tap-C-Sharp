@@ -1,0 +1,7 @@
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTapDiemDanh\BTDiemDanh\BTDiemDanh\bin\Debug\BTDiemDanh.exe.config
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTapDiemDanh\BTDiemDanh\BTDiemDanh\bin\Debug\BTDiemDanh.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTapDiemDanh\BTDiemDanh\BTDiemDanh\bin\Debug\BTDiemDanh.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTapDiemDanh\BTDiemDanh\BTDiemDanh\obj\Debug\BTDiemDanh.csproj.AssemblyReference.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTapDiemDanh\BTDiemDanh\BTDiemDanh\obj\Debug\BTDiemDanh.csproj.CoreCompileInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTapDiemDanh\BTDiemDanh\BTDiemDanh\obj\Debug\BTDiemDanh.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BaiTapDiemDanh\BTDiemDanh\BTDiemDanh\obj\Debug\BTDiemDanh.pdb
