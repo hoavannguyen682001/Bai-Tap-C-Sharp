@@ -1,0 +1,7 @@
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_OOP\Bai2\Bai2_QLThuVien\Bai2_QLThuVien\obj\Debug\Bai2_QLThuVien.csproj.AssemblyReference.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_OOP\Bai2\Bai2_QLThuVien\Bai2_QLThuVien\obj\Debug\Bai2_QLThuVien.csproj.CoreCompileInputs.cache
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_OOP\Bai2\Bai2_QLThuVien\Bai2_QLThuVien\bin\Debug\Bai2_QLThuVien.exe.config
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_OOP\Bai2\Bai2_QLThuVien\Bai2_QLThuVien\bin\Debug\Bai2_QLThuVien.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_OOP\Bai2\Bai2_QLThuVien\Bai2_QLThuVien\bin\Debug\Bai2_QLThuVien.pdb
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_OOP\Bai2\Bai2_QLThuVien\Bai2_QLThuVien\obj\Debug\Bai2_QLThuVien.exe
+D:\documents\HK2_Nam_3\C#\Bai-Tap-C-Sharp\BT_OOP\Bai2\Bai2_QLThuVien\Bai2_QLThuVien\obj\Debug\Bai2_QLThuVien.pdb
